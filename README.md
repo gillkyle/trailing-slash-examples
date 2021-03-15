@@ -1,10 +1,3 @@
-<p align="center">
-  <img alt="Mario sprite" src="https://raw.githubusercontent.com/gillkyle/images/master/mario.png" width="60" />
-</p>
-<h1 align="center">
-  Gamer vs Gatsby
-</h1>
+# Trailing Slash Examples
 
-A sample site built during a 5 min race between a world record Super Mario speed runner and a Gatsby developer.
-
-View live here: https://mariomain.gatsbyjs.io/
+A variety of pages built (createPages API, file system route API, and files in the pages directory) to test the trailing slash option in this branch: https://github.com/gatsbyjs/gatsby/tree/feat/trailing-slash-option
